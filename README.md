@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @markmacw
-- 👀 I’m interested in web programming and emerging technologies.
-- 🌱 I’m currently learning web programming.
+- 👀 I’m interested in web programming and front end development.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on anything related to Chinese language learning dictionaries or applications.
-- 📫 How to reach me: markmacw@gmail.com
+- 📫 How to reach me: markmacwhinney@icloud.com
 
 <!---
 markmacw/markmacw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
