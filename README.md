@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markmacw
 - 👀 I’m interested in web programming and front end development.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on anything related to Chinese language learning dictionaries or applications.
 - 📫 How to reach me: markmacwhinney@icloud.com
 
